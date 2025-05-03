@@ -9,7 +9,7 @@
 | 5   | Đoàn Trường Chánh Đạo     | 2210644 | 100%                |
 | 6   | Trương Phúc Ơn Thiên      | 2213240 | 100%                |
 
-LATEX: [https://www.overleaf.com/read/sqyhrqxsmfjw#1b4609](https://www.overleaf.com/read/sqyhrqxsmfjw#1b4609)
+LATEX: [https://www.overleaf.com/project/67c3f14713d58212cd73afc3](https://www.overleaf.com/project/67c3f14713d58212cd73afc3)
 
 # Video demo
 [https://drive.google.com/file/d/160HKuLdpOiZxFvKx_PLKe3n9yXGwsGWQ/view?usp=sharing](https://drive.google.com/file/d/160HKuLdpOiZxFvKx_PLKe3n9yXGwsGWQ/view?usp=sharing)
