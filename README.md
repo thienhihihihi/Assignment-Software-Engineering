@@ -28,9 +28,9 @@ LATEX: [https://www.overleaf.com/project/67c3f14713d58212cd73afc3](https://www.o
 
 
 
-## Available Scripts
+# Frontend
 
-In the project directory, you can run:
+Trong thư mục dự án, 
 
 ### `cd src`
 ### `npm run dev`
