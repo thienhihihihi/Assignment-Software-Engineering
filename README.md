@@ -1,14 +1,13 @@
 # Member list  
 
-| STT | Họ và tên               | MSSV    | Phần trăm đóng góp |
-|-----|-------------------------|---------|---------------------|
-| 1   | Lê Phan Bảo Như         | 2212466 | 100%                |
-| 2   | Đỗ Tuấn Anh             | 2210050 | 100%                |
-| 3   | Nguyễn Lê Gia Kiệt      | 2211761 | 100%                |
-| 4   | Lâm Nữ Uyển Nhi         | 2212429 | 100%                |
-| 5   | Hồ Đăng Khoa            | 2211588 | 100%                |
-| 6   | Trương Anh Tuấn         | 2213810 | 100%                |
-| 7   | Nguyễn Nguyên Nguyễn    | 2110405 | 100%                |
+| STT | Họ và tên                  | MSSV    | Phần trăm đóng góp |
+|-----|----------------------------|---------|---------------------|
+| 1   | Chế Viết Thiện            | 2213245 | 100%                |
+| 2   | Võ Phúc Thọ               | 2213323 | 100%                |
+| 3   | Hồng Thiện Nhân           | 2111900 | 100%                |
+| 4   | Phan Thanh Bình           | 2110826 | 100%                |
+| 5   | Đoàn Trường Chánh Đạo     | 2210644 | 100%                |
+| 6   | Trương Phúc Ơn Thiên      | 2213240 | 100%                |
 
 LATEX: [https://www.overleaf.com/read/sqyhrqxsmfjw#1b4609](https://www.overleaf.com/read/sqyhrqxsmfjw#1b4609)
 
