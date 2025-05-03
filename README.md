@@ -20,7 +20,7 @@ LATEX: [https://www.overleaf.com/project/67c3f14713d58212cd73afc3](https://www.o
 
 2. **Thao tác**:
    ```bash
-   cd C:/your/path/to/project/backend
+   cd backend
 
 # Getting Started with Create React App
 
