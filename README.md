@@ -19,7 +19,7 @@ LATEX: [https://www.overleaf.com/project/67c3f14713d58212cd73afc3](https://www.o
    - Python phiên bản >= 3.10 đã được cài đặt
 
 2. **Thao tác**:
-   Di chuyển đến thư mục backend bằng lệnh
+   -Di chuyển đến thư mục backend bằng lệnh
    ```bash
   
    cd backend
