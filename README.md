@@ -15,10 +15,10 @@ LATEX: [https://www.overleaf.com/project/67c3f14713d58212cd73afc3](https://www.o
 
 ### 🔧 Backend
 
-1. **Yêu cầu hệ thống**:
-   - Python phiên bản >= 3.10 đã được cài đặt
+1. **System Requirements**:
+   - Python version >= 3.10 must be installed
 
-2. **Thao tác**:
+2. **Steps**:
    
    ```bash
    cd backend
@@ -30,7 +30,7 @@ LATEX: [https://www.overleaf.com/project/67c3f14713d58212cd73afc3](https://www.o
 
 # Frontend
 
-Trong thư mục dự án, 
+In the project directory, you can run:
 
 ### `cd src`
 ### `npm run dev`
