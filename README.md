@@ -1,14 +1,14 @@
 # Member list  
 
-| STT  | Họ và tên | MSSV | Mail | Nhiệm vụ | Phần trăm đóng góp |
-| ------------- | ------------- | ------------- | ------------- |------------- |------------- |
-| 1  | Lê Phan Bảo Như  | 2212466  | nhu.lez055466@hcmut.edu.vn | Viết báo cáo. Thực hiện task 1, 2.1, 3.1, 4, 5. Code front-end. | 100% |
-| 2  | Đỗ Tuấn Anh| 2210050 | anh.dotuan020204@hcmut.edu.vn  |Thực hiện task 1, 2.2, 3.1, 4. Quay video demo. Code front-end. | 100% |
-| 3  | Nguyễn Lê Gia Kiệt  | 2211761  | kiet.nguyenmybkk22@hcmut.edu.vn  |Thực hiện task 1, 2.2, 3.1, 4, 5. Code . | 100% |
-| 4  | Lâm Nữ Uyển Nhi  | 2212429  | nhi.lamlnun@hcmut.edu.vn | Thực hiện task 1, 2.3, 3.2, 4, 5. Code front-end. | 100% |
-| 5  | Hồ Đăng Khoa  | 2211588  | khoa.ho24@hcmut.edu.vn  | Thực hiện task 1, 2.3, 3.2, 4, 5. Code back-end.  Hiệu chỉnh hệ thống.  | 100% |
-| 6  | Trương Anh Tuấn  | 2213810  | tuan.truong2t00nas4@hcmut.edu.vn  | Thực hiện task 1, 2.4, 3.1, 4, 5. Code front-end. Code back-end. Hiệu chỉnh hệ thống. | 100% |
-| 7  | Nguyễn Nguyên Nguyễn  | 2110405  | nguyen.nguyennguyuyen@hcmut.edu.vn | Thực hiện task 1, 2.4, 3.1, 4, 5. Code front-end. Code back-end. Code database| 100% |
+| STT | Họ và tên               | MSSV    | Phần trăm đóng góp |
+|-----|-------------------------|---------|---------------------|
+| 1   | Lê Phan Bảo Như         | 2212466 | 100%                |
+| 2   | Đỗ Tuấn Anh             | 2210050 | 100%                |
+| 3   | Nguyễn Lê Gia Kiệt      | 2211761 | 100%                |
+| 4   | Lâm Nữ Uyển Nhi         | 2212429 | 100%                |
+| 5   | Hồ Đăng Khoa            | 2211588 | 100%                |
+| 6   | Trương Anh Tuấn         | 2213810 | 100%                |
+| 7   | Nguyễn Nguyên Nguyễn    | 2110405 | 100%                |
 
 LATEX: [https://www.overleaf.com/read/sqyhrqxsmfjw#1b4609](https://www.overleaf.com/read/sqyhrqxsmfjw#1b4609)
 
