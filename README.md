@@ -11,8 +11,16 @@
 
 LATEX: [https://www.overleaf.com/project/67c3f14713d58212cd73afc3](https://www.overleaf.com/project/67c3f14713d58212cd73afc3)
 
-# Video demo
-[https://drive.google.com/file/d/160HKuLdpOiZxFvKx_PLKe3n9yXGwsGWQ/view?usp=sharing](https://drive.google.com/file/d/160HKuLdpOiZxFvKx_PLKe3n9yXGwsGWQ/view?usp=sharing)
+## Hướng dẫn chạy dự án
+
+### 🔧 Backend
+
+1. **Yêu cầu hệ thống**:
+   - Python phiên bản >= 3.10 đã được cài đặt
+
+2. **Thao tác**:
+   ```bash
+   cd C:/your/path/to/project/backend
 
 # Getting Started with Create React App
 
@@ -22,7 +30,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `cd frontend`
+### `cd src`
 ### `npm i`
 ### `npm start`
 
